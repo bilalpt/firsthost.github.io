@@ -1,0 +1,451 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.first-sub {
+    width: 100%;
+    background-color: white;
+    height: 2630px;
+    margin: 0;
+}
+
+.second {
+    height: 90px;
+    background-color: white;
+    width: 25%;
+    /* margin-left: 200px; */
+    float: left;
+}
+
+.logo {
+    height: 89px;
+    width: 125px;
+    padding-left: 200px;
+}
+
+.nav-bar {
+    background-color: white;
+    height: 70px;
+    width: 75%;
+    padding-bottom: 20px;
+    float: left;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 16px;
+    font-style: normal;
+    /* margin-top: 20px; */
+}
+
+.navul {
+    margin-top: 40px;
+    margin-left: 200px;
+    color: black;
+    font-size: 17px;
+    font-weight: 500px;
+    letter-spacing: 1px;
+    /* padding: 0 9px; */
+    text-transform: 1px;
+    /* text-underline-offset: none; */
+}
+
+.line {
+    text-decoration: none;
+    text-size-adjust: bold;
+}
+
+
+/* .nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 600px;
+} */
+
+.scond-img {
+    width: 100%;
+    height: 600px;
+    background-color: yellow;
+}
+
+.img1 {
+    width: 100%;
+    height: 510px;
+}
+
+.news {
+    width: 100%;
+    height: 80px;
+    background-color: white;
+}
+
+.Our-brands {
+    width: 100%;
+    height: 100px;
+    background-color: #044E8D;
+}
+
+.thirdimg {
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+}
+
+.subimg1 {
+    height: 400px;
+    width: 33.5%;
+    float: left;
+    background-color: black;
+}
+
+.subimg1one {
+    width: 100%;
+    height: 400px;
+}
+
+.subimg2 {
+    height: 400px;
+    width: 33.5%;
+    float: left;
+    background-color: rgb(76, 91, 105);
+}
+
+.subimgtwo {
+    width: 100%;
+    height: 400px;
+}
+
+.subimg3 {
+    height: 400px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+.subimgthree {
+    width: 100%;
+    height: 400px;
+}
+
+.company {
+    width: 100%;
+    height: 125px;
+    background-color: aliceblue;
+}
+
+.kidimg {
+    width: 100%;
+    height: 444px;
+    background-color: yellow;
+}
+
+.kidimg1 {
+    width: 100%;
+    height: 450px;
+}
+
+.announcements {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+
+.announce-under {
+    width: 30%;
+    height: 50px;
+    background-color: white;
+    margin-left: 530px;
+    position: relative;
+    top: 25px;
+}
+
+.heading {
+    margin-left: 50px;
+    font-size: 38px;
+    color: #044E8D;
+}
+
+.results {
+    width: 100%;
+    height: 320px;
+    background-color: white;
+}
+
+.result1 {
+    width: 24%;
+    height: 290px;
+    background-color: #2FA7CC;
+    float: left;
+    margin-left: 200px;
+}
+
+.resultone {
+    color: white;
+    margin-left: 55px;
+    margin-top: 55px;
+}
+
+.result2 {
+    width: 24%;
+    height: 290px;
+    background-color: #7FB150;
+    float: left;
+    margin-left: 10px;
+}
+
+.resulttwo {
+    color: white;
+    margin-left: 55px;
+    margin-top: 55px;
+}
+
+.result3 {
+    width: 24%;
+    height: 290px;
+    background-color: #F89410;
+    margin-left: 10px;
+    float: left;
+}
+
+.resultthree {
+    color: white;
+    margin-left: 55px;
+    margin-top: 55px;
+}
+
+.february {
+    width: 100%;
+    height: 110px;
+    background-color: #044E8D;
+}
+
+.feb {
+    width: 43%;
+    height: 100px;
+    background-color: #044E8D;
+    float: left;
+}
+
+.fe {
+    color: white;
+    margin-left: 450px;
+    margin-top: 30px;
+}
+
+.fe1 {
+    color: white;
+    margin-left: 515px;
+    /* margin-top: 30px; */
+    margin-top: 7px;
+}
+
+.feb2 {
+    width: 0.8px;
+    height: 100px;
+    background-color: white;
+    float: left;
+}
+
+.feb3 {
+    width: 49.9%;
+    height: 100px;
+    background-color: #044E8D;
+    float: left;
+}
+
+.febsub1 {
+    width: 90px;
+    height: 80px;
+    background-color: #044E8D;
+    margin-left: 200px;
+    float: left;
+}
+
+.hey {
+    color: white;
+    padding-top: 25px;
+    /* float: left; */
+}
+
+.febsub2 {
+    width: 90px;
+    height: 70px;
+    background-color: #044E8D;
+    margin-left: -180px;
+    float: left;
+}
+
+.hello {
+    color: white;
+    padding-top: 25px;
+}
+
+.febsub3 {
+    width: 70px;
+    height: 70px;
+    background-color: #044E8D;
+    margin-left: -260px;
+    float: left;
+}
+
+.how {
+    color: white;
+    padding-top: 25px;
+}
+
+.delaid {
+    width: 159px;
+    height: 15px;
+    background-color: #044E8D;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.delay {
+    color: white;
+    /* text-align: center; */
+}
+
+.lastdiv {
+    width: 100%;
+    height: 280px;
+    background-color: white;
+    margin-top: 35px;
+}
+
+.lastsub1 {
+    width: 190px;
+    height: 225px;
+    background-color: white;
+    margin-left: 220px;
+    float: left;
+}
+
+.headsub1 {
+    width: 159px;
+    height: 25px;
+    background-color: white;
+    float: left;
+}
+
+.headsub2 {
+    width: 159px;
+    height: 25px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.subline1 {
+    height: 225px;
+    width: 0.1px;
+    background-color: black;
+    float: left;
+    margin-left: 170px;
+    margin-top: -198px;
+}
+
+.lastsub2 {
+    width: 190px;
+    height: 225px;
+    background-color: white;
+    margin-left: 220px;
+    float: left;
+    margin-left: 15px;
+}
+
+.subline2 {
+    height: 225px;
+    width: 0.5px;
+    background-color: black;
+    float: left;
+    margin-left: -20px;
+    margin-top: -1px;
+}
+
+.headsubtwo {
+    width: 159px;
+    height: 25px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+
+/* sub three */
+
+.lastsub3 {
+    width: 190px;
+    height: 225px;
+    background-color: white;
+    margin-left: 220px;
+    float: left;
+    margin-left: 15px;
+}
+
+.headtwolast {
+    padding-top: 20px;
+}
+
+.pone {
+    padding-top: 10px;
+}
+
+.linethree {
+    height: 225px;
+    width: 0.5px;
+    background-color: black;
+    margin-left: 165px;
+    margin-top: -158px;
+}
+
+
+/* sub four */
+
+.lastsub4 {
+    width: 260px;
+    height: 225px;
+    background-color: white;
+    margin-left: 220px;
+    float: left;
+    margin-left: 15px;
+}
+
+.ptwo {
+    padding-top: 20px;
+    font-size: medium;
+}
+
+.linefour {
+    height: 225px;
+    width: 0.5px;
+    background-color: black;
+    margin-left: 230px;
+    margin-top: -150px;
+}
+
+.lastsub5 {
+    width: 350px;
+    height: 225px;
+    background-color: white;
+    margin-left: 220px;
+    float: left;
+    margin-left: 1px;
+}
+
+.dominosone {
+    margin-left: 1px;
+}
+
+.footer {
+    width: 800px;
+    height: 15px;
+    background-color: white;
+    float: left;
+    margin-top: 250px;
+    margin-left: -1200px;
+}
+
+.footer-size {
+    font-size: small;
+}

@@ -1,0 +1,30 @@
+.top-div {
+    background-color: blue;
+}
+
+.second-div {
+    float: left!important;
+    margin-left: 200px;
+    background-color: brown;
+}
+
+.second-div img {
+    zoom: .9;
+}
+
+.logo-img {
+    max-width: 200px;
+    height: 100px;
+}
+
+
+/* second image start */
+
+.second-img {
+    height: 509px;
+}
+
+.top-div2 {
+    background-color: black;
+    margin: 0;
+}
